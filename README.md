@@ -1,0 +1,2 @@
+# memo
+for self study
